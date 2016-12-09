@@ -28,7 +28,7 @@
   Python3 (mitmAP will install the dependenices, you don't have to do it)
 
 # downloading:
-  <h3>"git clone https://github.com/xdavidhu/mitmAP"</h3>
+  <h3>"git clone https://github.com/du30cw/mitmAP"</h3>
   
 # starting:
   * Kali Linux -> "sudo python3 mitmAP.py"<br>
